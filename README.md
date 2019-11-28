@@ -15,7 +15,7 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 <<<<<<< HEAD
-This should trigger the build. WHy is not running
+This should trigger the build.
 =======
 This should trigger the build.
 >>>>>>> 3cd3439c59bd9b8fbdc930b651df824a463a3392
